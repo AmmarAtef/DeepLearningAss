@@ -1,0 +1,5 @@
+data/*
+cifar-10-batches-py/*
+
+resnet.ckpt
+save_temp/*
